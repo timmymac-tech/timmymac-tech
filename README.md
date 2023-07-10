@@ -1,5 +1,6 @@
 👋 Hi there! Welcome to my GitHub!
 - 🪧 I’m Tim from TimmyMac.tech
+- 🌎 I live in New York
 - ⚙️ I’m an 💻 engineer with > 25 years experience developing and integrating complex software systems
 - 🐧 I have a real passion for Linux and have worked with it for the duration of my career
 - 🖥️ I spend much of my free time learning & playing with technology particularly in my home lab
